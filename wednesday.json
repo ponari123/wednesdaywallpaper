@@ -1,14 +1,24 @@
 {
   "Ads": [
     {
-      "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3023027054034643/1024557071",
-      "admob_nativeid": "ca-app-pub-3023027054034643/8823156041",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "admob_interid":"ca-app-pub-3023027054034643/1024557071",
+      "admob_native":"ca-app-pub-3023027054034643/8823156041",
       "admob_openid": "ca-app-pub-3023027054034643/1047526236",
-      "admob_rewardid": "", 
-      "interval": 1,
-      "coin_reward": 0
+      "admob_rewardid":"",
+      "max_banner":"",
+      "max_inter":"",
+      "interval": 0,
+      "coin_reward": 1000,
+
+      "high_paying_keyword_1": "satu",
+      "high_paying_keyword_2": "dua",
+      "high_paying_keyword_3": "tiga",
+      "high_paying_keyword_4": "empat",
+      "high_paying_keyword_5": "lima",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
   "More":
